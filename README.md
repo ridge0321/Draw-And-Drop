@@ -4,6 +4,7 @@
 ## ドキュメント
 - [バックエンド仕様書](./doc/backendDoc.md)
 - [画面デザイン概観](https://www.figma.com/file/hTJqCtZBsQLxNuRuNTCI3M/Draw-And-Drop?t=Ddp1JwwP03YF8Pfe-1)
+- [プレゼンテーション用スライド](https://www.canva.com/design/DAFZAg5dQKk/tgluitpBwsN3SHq1GJdz_w/view)
 
 ## 技術スタック
 ### フロントエンド
